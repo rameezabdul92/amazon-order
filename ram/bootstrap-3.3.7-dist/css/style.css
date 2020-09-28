@@ -1,0 +1,81 @@
+.navbar-brand {
+    float: left;
+
+    padding: 0px 0px !important;
+    font-size: 18px;
+    line-height: 20px;
+    width: 100% !important;
+height: auto !important;
+}
+.navbar-default {
+    background-color: #fff;
+    border-color: #e7e7e7;
+}
+
+.img-responsive{
+	display:block;
+	margin-left:60px;
+	max-width:110%;
+	height:auto;
+}
+
+#brand-image{
+	display:block;
+	margin-left:200px;
+}
+
+.iphone{
+	font-size:25px;
+
+	margin-left:120px;
+
+	padding-bottom:20px;
+
+text-decoration:none;
+	border-style:none;
+	
+}
+
+.support{
+	margin-top:25px;
+	margin-left:340px;
+	margin-bottom:20px;
+
+}
+
+
+.initiated h3{
+	font-size:30px;
+	margin-left:410px;
+}
+
+p{
+	font-size:18px;
+	margin-top:15px;
+	margin-left:50px;
+
+}
+
+h4{
+	font-size:20px;
+	margin-left:350px;
+	
+
+
+}
+
+
+#status{
+	
+	padding:0 0 5px 0;
+}
+
+
+
+
+
+
+
+}
+}
+
